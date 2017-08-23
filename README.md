@@ -1,2 +1,2 @@
 # WaterLevelGauge
-Prototype low cost acoustic automatic online water level sensor made from off the shelf components
+This project was made as part of the thesis of the master Water Management at the Faculty of Civil Engineering at Delft University of Technology. For this thesis the article: 'Prototype low cost acoustic automatic online water level sensor made from off the shelf components' will be submitted to the journal Geoscientific Instrumentation, Methods and Data Systems. In this article the objective and results for this project are presented. 
