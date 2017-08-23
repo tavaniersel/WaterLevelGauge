@@ -38,7 +38,7 @@ double temperatureArray[uploadNr];                  //will contain last uploadNr
 double levelArray[uploadNr];                        //will contain last uploadNr level in feet.
 int switchState = 0;
 int currentSampleCounter = 0;
-int counter = 0;                    //sd
+int counter = 0;                    
 
 
 // SET UP
